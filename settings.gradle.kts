@@ -11,8 +11,7 @@ plugins {
 }
 rootProject.name = "reproduce_kt_63460"
 
-val kotlinVer = "2.0.255-SNAPSHOT"
-//val kotlinVer = "2.0.0-Beta1"
+val kotlinVer = "2.0.0-Beta1"
 
 buildCache {
     local {
